@@ -1,4 +1,4 @@
-## GIT - homework 1 - First_Autotest publishing with git init
+## GIT - homework 1 - GIT_init publishing with git init
 This is a part of GIT homework 1. To see all the GIT homeworks, click [here](https://github.com/ida-que/GIT-homeworks).</br>
 _Note: To work with GIT repos, I used some of these necessary tools:_
 - _a GitHub account_
@@ -7,8 +7,8 @@ _Note: To work with GIT repos, I used some of these necessary tools:_
 - _folders for keeping local repos (I used `mkdir` Bash command to create those in terminal)_
 
 ## STEPS
-#### 1. Create a local repository _First_Autotest_.
-To make a local repo, I just use `git init` command while being in the directory I have my autotest.
+#### 1. Create a local repository _GIT_init_.
+To make a local repo, I just use `git init` command while being in the directory where I have one file - my first autotest.
 ```
 $ git init
 Initialized empty Git repository in D:/career/My courses/QA/GIT/First_Autotest/.git/
